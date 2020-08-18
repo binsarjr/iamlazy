@@ -1,14 +1,19 @@
-I"¯<h1 class="no_toc" id="alerts">Alerts</h1>
+I"	<h1 id="alerts">Alerts</h1>
+<p class="no_toc">Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages.</p>
 
 <h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
 
 <ol id="markdown-toc">
-  <li><a href="#examples" id="markdown-toc-examples">Examples</a></li>
+  <li><a href="#alerts" id="markdown-toc-alerts">Alerts</a>    <ol>
+      <li><a href="#examples" id="markdown-toc-examples">Examples</a></li>
+    </ol>
+  </li>
 </ol>
 
 <hr />
 
 <h2 id="examples">Examples</h2>
+<p>Alerts are available for any length of text. For proper styling, use one of the eight required contextual classes (e.g., .alert-success)</p>
 
 <div class="code-example">
   <div class="alert alert-primary">This is a primary alert</div>
