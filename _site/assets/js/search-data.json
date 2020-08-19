@@ -335,222 +335,246 @@
     "url": "http://localhost:4000/iamlazy/docs/customization/#override-and-completely-custom-styles",
     "relUrl": "/docs/customization/#override-and-completely-custom-styles"
   },"56": {
+    "doc": "Dropdown",
+    "title": "Dropdown",
+    "content": "Toggle contextual overlays for displaying lists of links. ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/",
+    "relUrl": "/docs/components/dropdown/"
+  },"57": {
+    "doc": "Dropdown",
+    "title": "Table of contents",
+    "content": ". | Dropdown . | Example | Menu right | . | . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#table-of-contents",
+    "relUrl": "/docs/components/dropdown/#table-of-contents"
+  },"58": {
+    "doc": "Dropdown",
+    "title": "Example",
+    "content": "Dropdown one two three &lt;div class=\"dropdown\"&gt; &lt;div class=\"btn btn-primary btn-no-hover dropdown-toggle\"&gt;Dropdown&lt;/div&gt; &lt;div class=\"dropdown-menu\"&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;one&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;two&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;three&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#example",
+    "relUrl": "/docs/components/dropdown/#example"
+  },"59": {
+    "doc": "Dropdown",
+    "title": "Menu right",
+    "content": "add .dropdown-menu-right to class .dropdown-menu. Dropdown one two three &lt;div class=\"dropdown\"&gt; &lt;div class=\"btn btn-primary btn-no-hover dropdown-toggle\"&gt;Dropdown&lt;/div&gt; &lt;div class=\"dropdown-menu dropdown-menu-right\"&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;one&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;two&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;three&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#menu-right",
+    "relUrl": "/docs/components/dropdown/#menu-right"
+  },"60": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
-  },"57": {
+  },"61": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
-  },"58": {
+  },"62": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/",
     "relUrl": "/docs/index-test/"
-  },"59": {
+  },"63": {
     "doc": "Home",
     "title": "Focus on writing good documentation",
     "content": "Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages. Get started now View it on GitHub . ",
     "url": "http://localhost:4000/iamlazy/#focus-on-writing-good-documentation",
     "relUrl": "/#focus-on-writing-good-documentation"
-  },"60": {
+  },"64": {
     "doc": "Home",
     "title": "Getting started",
     "content": "Dependencies . Just the Docs is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special plugins and can run on GitHub Pages’ standard Jekyll compiler. The Jekyll SEO Tag plugin is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the Jekyll SEO Tag usage guide. Quick start: Use as a GitHub Pages remote theme . | Add Just the Docs to your Jekyll site’s _config.yml as a remote theme remote_theme: pmarsceill/just-the-docs . You must have GitHub Pages enabled on your repo, one or more Markdown files, and a _config.yml file. See an example repository . | . Local installation: Use the gem-based theme . | Install the Ruby Gem $ gem install just-the-docs . # .. or add it to your your Jekyll site’s Gemfile gem \"just-the-docs\" . | Add Just the Docs to your Jekyll site’s _config.yml theme: \"just-the-docs\" . | Optional: Initialize search data (creates search-data.json) $ bundle exec just-the-docs rake search:init . | Run you local Jekyll server $ jekyll serve . # .. or if you're using a Gemfile (bundler) $ bundle exec jekyll serve . | Point your web browser to http://localhost:4000 | . If you’re hosting your site on GitHub Pages, set up GitHub Pages and Jekyll locally so that you can more easily work in your development environment. Configure Just the Docs . | See configuration options | . ",
     "url": "http://localhost:4000/iamlazy/#getting-started",
     "relUrl": "/#getting-started"
-  },"61": {
+  },"65": {
     "doc": "Home",
     "title": "About the project",
     "content": "Just the Docs is © 2017-2020 by Patrick Marsceill. License . Just the Docs is distributed by an MIT license. Contributing . When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our GitHub repo. Thank you to the contributors of Just the Docs! . Code of Conduct . Just the Docs is committed to fostering a welcoming community. View our Code of Conduct on our GitHub repository. ",
     "url": "http://localhost:4000/iamlazy/#about-the-project",
     "relUrl": "/#about-the-project"
-  },"62": {
+  },"66": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/",
     "relUrl": "/"
-  },"63": {
+  },"67": {
     "doc": "Layout",
     "title": "Layout Utilities",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#layout-utilities",
     "relUrl": "/docs/utilities/layout/#layout-utilities"
-  },"64": {
+  },"68": {
     "doc": "Layout",
     "title": "Table of contents",
     "content": ". | Spacing | Horizontal Alignment | Vertical Alignment | Display | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#table-of-contents",
     "relUrl": "/docs/utilities/layout/#table-of-contents"
-  },"65": {
+  },"69": {
     "doc": "Layout",
     "title": "Spacing",
     "content": "These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively. | Classname prefix | What it does | . | .m- | margin | . | .mx- | margin-left, margin-right | . | .my- | margin top, margin bottom | . | .mt- | margin-top | . | .mr- | margin-right | . | .mb- | margin-bottom | . | .ml- | margin-left | . | Classname prefix | What it does | . | .p- | padding | . | .px- | padding-left, padding-right | . | .py- | padding top, padding bottom | . | .pt- | padding-top | . | .pr- | padding-right | . | .pb- | padding-bottom | . | .pl- | padding-left | . Spacing values are based on a 1rem = 16px spacing scale, broken down into these units: . | Spacer/suffix | Size in rems | Rem converted to px | . | 1 | 0.25rem | 4px | . | 2 | 0.5rem | 8px | . | 3 | 0.75rem | 12px | . | 4 | 1rem | 16px | . | 5 | 1.5rem | 24px | . | 6 | 2rem | 32px | . | 7 | 2.5rem | 40px | . | 8 | 3rem | 48px | . | auto | auto | auto | . Use mx-auto to horizontally center elements. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This paragraph will have a margin bottom of 1rem/16px at large screens. {: .mb-lg-4 } This paragraph will have 2rem/32px of padding on the right and left at all screen sizes. {: .px-6 } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#spacing",
     "relUrl": "/docs/utilities/layout/#spacing"
-  },"66": {
+  },"70": {
     "doc": "Layout",
     "title": "Horizontal Alignment",
     "content": "| Classname | What it does | . | .float-left | float: left | . | .float-right | float: right | . | .flex-justify-start | justify-content: flex-start | . | .flex-justify-end | justify-content: flex-end | . | .flex-justify-between | justify-content: space-between | . | .flex-justify-around | justify-content: space-around | . Note: any of the flex- classes must be used on a parent element that has d-flex applied to it. ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#horizontal-alignment",
     "relUrl": "/docs/utilities/layout/#horizontal-alignment"
-  },"67": {
+  },"71": {
     "doc": "Layout",
     "title": "Vertical Alignment",
     "content": "| Classname | What it does | . | .v-align-baseline | vertical-align: baseline | . | .v-align-bottom | vertical-align: bottom | . | .v-align-middle | vertical-align: middle | . | .v-align-text-bottom | vertical-align: text-bottom | . | .v-align-text-top | vertical-align: text-top | . | .v-align-top | vertical-align: top | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#vertical-alignment",
     "relUrl": "/docs/utilities/layout/#vertical-alignment"
-  },"68": {
+  },"72": {
     "doc": "Layout",
     "title": "Display",
     "content": "Display classes aid in adapting the layout of the elements on a page: . | Class |   | . | .d-block | display: block | . | .d-flex | display: flex | . | .d-inline | display: inline | . | .d-inline-block | display: inline-block | . | .d-none | display: none | . Use these classes in conjunction with the responsive modifiers. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This button will be hidden until medium screen sizes: [ A button ](#url) {: .d-none .d-md-inline-block } These headings will be `inline-block`: ### heading 3 {: .d-inline-block } ### heading 3 {: .d-inline-block } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#display",
     "relUrl": "/docs/utilities/layout/#display"
-  },"69": {
+  },"73": {
     "doc": "Layout",
     "title": "Layout",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/",
     "relUrl": "/docs/utilities/layout/"
-  },"70": {
+  },"74": {
     "doc": "Navigation Structure",
     "title": "Navigation Structure",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/",
     "relUrl": "/docs/navigation-structure/"
-  },"71": {
+  },"75": {
     "doc": "Navigation Structure",
     "title": "Table of contents",
     "content": ". | Main navigation | Ordering pages | Excluding pages | Pages with children . | Child pages | Auto-generating Table of Contents | Children with children | . | Auxiliary Links | In-page navigation with Table of Contents . | Collapsible Table of Contents | . | . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#table-of-contents",
     "relUrl": "/docs/navigation-structure/#table-of-contents"
-  },"72": {
+  },"76": {
     "doc": "Navigation Structure",
     "title": "Main navigation",
     "content": "The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren). By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see Pages with Children). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#main-navigation",
     "relUrl": "/docs/navigation-structure/#main-navigation"
-  },"73": {
+  },"77": {
     "doc": "Navigation Structure",
     "title": "Ordering pages",
     "content": "To specify a page order, use the nav_order parameter in your pages’ YAML front matter. Example . --- layout: default title: Customization nav_order: 4 --- . The specified nav_order parameters on a site should be all integers or all strings. Pages without a nav_order parameter are ordered alphabetically by their title, and appear after the explicitly-ordered pages at each level. By default, all Capital letters are sorted before all lowercase letters; adding nav_sort: case_insensitive in the configuration file ignores case when sorting strings (but also sorts numbers lexicographically: 10 comes before 1). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#ordering-pages",
     "relUrl": "/docs/navigation-structure/#ordering-pages"
-  },"74": {
+  },"78": {
     "doc": "Navigation Structure",
     "title": "Excluding pages",
     "content": "For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the nav_exclude: true parameter in the YAML front matter for that page. Example . --- layout: default title: 404 nav_exclude: true --- . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#excluding-pages",
     "relUrl": "/docs/navigation-structure/#excluding-pages"
-  },"75": {
+  },"79": {
     "doc": "Navigation Structure",
     "title": "Pages with children",
     "content": "Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together… For example, in these docs, we keep all of the written documentation in the ./docs directory and each of the sections in subdirectories like ./docs/ui-components and ./docs/utilities. This gives us an organization like: . +-- .. |-- (Jekyll files) |-- docs |-- ui-components | |-- index.md (parent page) | |-- buttons.md | |-- code.md | |-- labels.md | |-- tables.md | +-- typography.md | |-- utilities | |-- index.md (parent page) | |-- color.md | |-- layout.md | |-- responsive-modifiers.md | +-- typography.md | |-- (other md files, pages with no children) | +-- .. |-- (Jekyll files) +-- .. On the parent pages, add this YAML front matter parameter: . | has_children: true (tells us that this is a parent page) | . Example . --- layout: default title: UI Components nav_order: 2 has_children: true --- . Here we’re setting up the UI Components landing page that is available at /docs/ui-components, which has children and is ordered second in the main nav. Child pages . On child pages, simply set the parent: YAML front matter to whatever the parent’s page title is and set a nav order (this number is now scoped within the section). Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 --- . The Buttons page appears as a child of UI Components and appears second in the UI Components section. Auto-generating Table of Contents . By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page’s content. To disable this auto Table of Contents, set has_toc: false in the parent page’s YAML front matter. Example . --- layout: default title: UI Components nav_order: 2 has_children: true has_toc: false --- . Children with children . Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages. | Add the has_children attribute to the child | Add the parent and grand_parent attribute to the grandchild | . Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 has_children: true --- . --- layout: default title: Buttons Child Page parent: Buttons grand_parent: UI Components nav_order: 1 --- . This would create the following navigation structure: . +-- .. |-- UI Components |-- .. | |-- Buttons | |-- Button Child Page | |-- .. | +-- .. ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#pages-with-children",
     "relUrl": "/docs/navigation-structure/#pages-with-children"
-  },"76": {
+  },"80": {
     "doc": "Navigation Structure",
     "title": "Auxiliary Links",
     "content": "To add auxiliary links to your site (in the upper right on all pages), add it to the aux_links configuration option in your site’s _config.yml file. Example . # Aux links for the upper right navigation aux_links: \"Just the Docs on GitHub\": - \"//github.com/pmarsceill/just-the-docs\" . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#auxiliary-links",
     "relUrl": "/docs/navigation-structure/#auxiliary-links"
-  },"77": {
+  },"81": {
     "doc": "Navigation Structure",
     "title": "In-page navigation with Table of Contents",
     "content": "To generate a Table of Contents on your docs pages, you can use the {:toc} method from Kramdown, immediately after an &lt;ol&gt; in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you’re using a heading and you don’t want it to show up in the TOC, so to skip a particular heading use the {: .no_toc } CSS class. Example . # Navigation Structure {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} . This example skips the page name heading (#) from the TOC, as well as the heading for the Table of Contents itself (##) because it is redundant, followed by the table of contents itself. To get an unordered list, replace 1. TOC above by - TOC. Collapsible Table of Contents . The Table of Contents can be made collapsible using the &lt;details&gt; and &lt;summary&gt; elements , as in the following example. The attribute open (expands the Table of Contents by default) and the styling with {: .text-delta } are optional. &lt;details open markdown=\"block\"&gt; &lt;summary&gt; &lt;/summary&gt; {: .text-delta } 1. TOC {:toc} &lt;/details&gt; . The result is shown at the top of this page ({:toc} can be used only once on each page). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#in-page-navigation-with-table-of-contents",
     "relUrl": "/docs/navigation-structure/#in-page-navigation-with-table-of-contents"
-  },"78": {
+  },"82": {
     "doc": "Responsive Modifiers",
     "title": "Responsive modifiers",
     "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/responsive-modifiers/#responsive-modifiers",
     "relUrl": "/docs/utilities/responsive-modifiers/#responsive-modifiers"
-  },"79": {
+  },"83": {
     "doc": "Responsive Modifiers",
     "title": "Responsive Modifiers",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/responsive-modifiers/",
     "relUrl": "/docs/utilities/responsive-modifiers/"
-  },"80": {
+  },"84": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/search/",
     "relUrl": "/docs/search/"
-  },"81": {
+  },"85": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"82": {
+  },"86": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"83": {
+  },"87": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"84": {
+  },"88": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "http://localhost:4000/iamlazy/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"85": {
+  },"89": {
     "doc": "Typography",
     "title": "Typography Utilities",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#typography-utilities",
     "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"86": {
+  },"90": {
     "doc": "Typography",
     "title": "Table of contents",
     "content": ". | Font size | Font weight | Line height | Text justification | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#table-of-contents",
     "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"87": {
+  },"91": {
     "doc": "Typography",
     "title": "Font size",
     "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#font-size",
     "relUrl": "/docs/utilities/typography/#font-size"
-  },"88": {
+  },"92": {
     "doc": "Typography",
     "title": "Font weight",
     "content": "Use the .fw-300 - .fw-700 to set an explicit font-size. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#font-weight",
     "relUrl": "/docs/utilities/typography/#font-weight"
-  },"89": {
+  },"93": {
     "doc": "Typography",
     "title": "Line height",
     "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#line-height",
     "relUrl": "/docs/utilities/typography/#line-height"
-  },"90": {
+  },"94": {
     "doc": "Typography",
     "title": "Text justification",
     "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#text-justification",
     "relUrl": "/docs/utilities/typography/#text-justification"
-  },"91": {
+  },"95": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/",
     "relUrl": "/docs/utilities/typography/"
-  },"92": {
+  },"96": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",
