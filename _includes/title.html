@@ -1,5 +1,9 @@
 {% if site.logo %}
-  <div class="site-logo"></div>
+  <div>
+    <div class="site-logo"></div> <small class="text-gray-500 text-sm">{{ site.subtitle }}</small>
+  </div>
 {% else %}
-  {{ site.title }}
+  <div>
+    {{ site.title }} <small class="text-gray-500 text-sm">{{ site.subtitle }}</small>
+  </div>
 {% endif %}
