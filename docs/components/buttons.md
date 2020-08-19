@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Buttons
-{: .no_toc }
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -18,80 +18,63 @@ nav_order: 3
 
 ## Basic button styles
 
-### Links that look like buttons
-
 <div class="code-example" markdown="1">
-[Link button](http://example.com/){: .btn }
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
 
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
-
-[Link button](http://example.com/){: .btn .btn-outline }
 </div>
+
 ```markdown
-[Link button](http://example.com/){: .btn }
-
-[Link button](http://example.com/){: .btn .btn-purple }
-[Link button](http://example.com/){: .btn .btn-blue }
-[Link button](http://example.com/){: .btn .btn-green }
-
-[Link button](http://example.com/){: .btn .btn-outline }
+<button type="button" class="btn btn-primary">Primary</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-success">Success</button>
+<button type="button" class="btn btn-danger">Danger</button>
+<button type="button" class="btn btn-warning">Warning</button>
+<button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
 ```
 
-### Button element
 
-GitHub Flavored Markdown does not support the `button` element, so you'll have to use inline HTML for this:
-
-<div class="code-example">
-<button type="button" name="button" class="btn">Button element</button>
-</div>
-```html
-<button type="button" name="button" class="btn">Button element</button>
-```
-
----
-
-## Using utilities with buttons
-
-### Button size
-
-Wrap the button in a container that uses the [font-size utility classes]({{ site.baseurl }}{% link docs/utilities/typography.md %}) to scale buttons:
+## Outline buttons
 
 <div class="code-example" markdown="1">
-<span class="fs-6">
-[Big ass button](http://example.com/){: .btn }
-</span>
-
-<span class="fs-3">
-[Tiny ass button](http://example.com/){: .btn }
-</span>
+<button type="button" class="btn btn-outline-primary">Primary</button>
+<button type="button" class="btn btn-outline-secondary">Secondary</button>
+<button type="button" class="btn btn-outline-success">Success</button>
+<button type="button" class="btn btn-outline-danger">Danger</button>
+<button type="button" class="btn btn-outline-warning">Warning</button>
+<button type="button" class="btn btn-outline-info">Info</button>
+<button type="button" class="btn btn-outline-light">Light</button>
+<button type="button" class="btn btn-outline-dark">Dark</button>
 </div>
-```markdown
-<span class="fs-8">
-[Link button](http://example.com/){: .btn }
-</span>
 
-<span class="fs-3">
-[Tiny ass button](http://example.com/){: .btn }
-</span>
+```markdown
+<button type="button" class="btn btn-outline-primary">Primary</button>
+<button type="button" class="btn btn-outline-secondary">Secondary</button>
+<button type="button" class="btn btn-outline-success">Success</button>
+<button type="button" class="btn btn-outline-danger">Danger</button>
+<button type="button" class="btn btn-outline-warning">Warning</button>
+<button type="button" class="btn btn-outline-info">Info</button>
+<button type="button" class="btn btn-outline-light">Light</button>
+<button type="button" class="btn btn-outline-dark">Dark</button>
 ```
 
-### Spacing between buttons
-
-Use the [margin utility classes]({{ site.baseurl }}{% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
+## Button block
+Create block level buttons—those that span the full width of a parent—by adding `.btn-block`.
 
 <div class="code-example" markdown="1">
-[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
-[Button ](http://example.com/){: .btn .btn-blue .mr-2 }
-
-[Button with more space](http://example.com/){: .btn .btn-green .mr-4 }
-[Button ](http://example.com/){: .btn .btn-blue }
+<button type="button" class="btn btn-primary btn-block">Primary</button>
+<button type="button" class="btn btn-success btn-block">Success</button>
 </div>
-```markdown
-[Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
-[Button ](http://example.com/){: .btn .btn-blue }
 
-[Button with more space](http://example.com/){: .btn .btn-green .mr-4 }
-[Button ](http://example.com/){: .btn .btn-blue }
+```markdown
+<button type="button" class="btn btn-primary btn-block">Primary</button>
+<button type="button" class="btn btn-success btn-block">Success</button>
 ```
