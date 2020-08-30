@@ -56,6 +56,9 @@ Add any of the below mentioned modifier classes to change the appearance of a ba
 <span class="badge badge-success">success</span>
 <span class="badge badge-danger">danger</span>
 <span class="badge badge-warning">warning</span>
+<span class="badge badge-orange">orange</span>
+<span class="badge badge-indigo">indigo</span>
+<span class="badge badge-pink">pink</span>
 <span class="badge badge-info">info</span>
 <span class="badge badge-light">light</span>
 <span class="badge badge-dark">dark</span>
@@ -66,6 +69,9 @@ Add any of the below mentioned modifier classes to change the appearance of a ba
 <span class="badge badge-success">success</span>
 <span class="badge badge-danger">danger</span>
 <span class="badge badge-warning">warning</span>
+<span class="badge badge-orange">orange</span>
+<span class="badge badge-indigo">indigo</span>
+<span class="badge badge-pink">pink</span>
 <span class="badge badge-info">info</span>
 <span class="badge badge-light">light</span>
 <span class="badge badge-dark">dark</span>
@@ -74,14 +80,17 @@ Add any of the below mentioned modifier classes to change the appearance of a ba
 ## Links
 Using the contextual `.badge-*` classes on an `<a>` element quickly provide actionable badges with hover states.
 <div class="code-example" markdown="1">
-<a href="#" class="badge badge-primary">primary</a>
-<a href="#" class="badge badge-secondary">secondary</a>
-<a href="#" class="badge badge-success">success</a>
-<a href="#" class="badge badge-danger">danger</a>
-<a href="#" class="badge badge-warning">warning</a>
-<a href="#" class="badge badge-info">info</a>
-<a href="#" class="badge badge-light">light</a>
-<a href="#" class="badge badge-dark">dark</a>
+<a href="javascript:void(0)" class="badge badge-primary">primary</a>
+<a href="javascript:void(0)" class="badge badge-secondary">secondary</a>
+<a href="javascript:void(0)" class="badge badge-success">success</a>
+<a href="javascript:void(0)" class="badge badge-danger">danger</a>
+<a href="javascript:void(0)" class="badge badge-warning">warning</a>
+<a href="javascript:void(0)" class="badge badge-orange">orange</a>
+<a href="javascript:void(0)" class="badge badge-indigo">indigo</a>
+<a href="javascript:void(0)" class="badge badge-pink">pink</a>
+<a href="javascript:void(0)" class="badge badge-info">info</a>
+<a href="javascript:void(0)" class="badge badge-light">light</a>
+<a href="javascript:void(0)" class="badge badge-dark">dark</a>
 </div>
 ```markdown
 <a href="#" class="badge badge-primary">primary</a>
@@ -89,6 +98,9 @@ Using the contextual `.badge-*` classes on an `<a>` element quickly provide acti
 <a href="#" class="badge badge-success">success</a>
 <a href="#" class="badge badge-danger">danger</a>
 <a href="#" class="badge badge-warning">warning</a>
+<a href="#" class="badge badge-orange">orange</a>
+<a href="#" class="badge badge-indigo">indigo</a>
+<a href="#" class="badge badge-pink">pink</a>
 <a href="#" class="badge badge-info">info</a>
 <a href="#" class="badge badge-light">light</a>
 <a href="#" class="badge badge-dark">dark</a>
