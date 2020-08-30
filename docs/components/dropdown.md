@@ -2,10 +2,10 @@
 layout: default
 title: Dropdown
 parent: Components
-nav_order: 5
 ---
 
-# Dropdown
+# Dropdown <small class="text-sm">`Require Javascript`</small>
+
 Toggle contextual overlays for displaying lists of links.
 {: .no_toc }
 

@@ -2,7 +2,6 @@
 layout: default
 title: Card
 parent: Components
-nav_order: 4
 ---
 
 # Card

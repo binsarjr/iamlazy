@@ -2,7 +2,6 @@
 layout: default
 title: Badge
 parent: Components
-nav_order: 2
 ---
 
 # Badge

@@ -507,22 +507,6 @@ h6, .text-zeta { font-size: 11px !important; color: #44434d; }
 
 @media (min-width: 50rem) { .search-active .main-header { padding-top: 0; } }
 
-.table-wrapper { display: block; width: 100%; max-width: 100%; margin-bottom: 1.5rem; overflow-x: auto; border-radius: 4px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08); }
-
-table { display: table; min-width: 100%; border-collapse: separate; }
-
-th, td { font-size: 12px !important; min-width: 120px; padding-top: 0.5rem; padding-right: 0.75rem; padding-bottom: 0.5rem; padding-left: 0.75rem; background-color: #fff; border-bottom: 1px solid rgba(238, 235, 238, 0.5); border-left: 1px solid #eeebee; }
-
-@media (min-width: 31.25rem) { th, td { font-size: 14px !important; } }
-
-th:first-of-type, td:first-of-type { border-left: 0; }
-
-tbody tr:last-of-type th, tbody tr:last-of-type td { border-bottom: 0; }
-
-tbody tr:last-of-type td { padding-bottom: 0.75rem; }
-
-thead th { border-bottom: 1px solid #eeebee; }
-
 code { padding: 0.2em 0.15em; font-weight: 400; background-color: #f5f6fa; border: 1px solid #eeebee; border-radius: 4px; }
 
 pre.highlight, figure.highlight { padding: 0.75rem; margin-top: 0; margin-bottom: 0; background-color: #f5f6fa; border-radius: 4px; -webkit-overflow-scrolling: touch; }

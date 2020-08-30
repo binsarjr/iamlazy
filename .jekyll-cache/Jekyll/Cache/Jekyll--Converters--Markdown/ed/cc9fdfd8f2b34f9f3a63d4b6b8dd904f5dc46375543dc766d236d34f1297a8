@@ -1,10 +1,11 @@
-I"}<h1 id="dropdown">Dropdown</h1>
+I"è<h1 id="dropdown-require-javascript">Dropdown <small class="text-sm"><code class="language-plaintext highlighter-rouge">Require Javascript</code></small></h1>
+
 <p class="no_toc">Toggle contextual overlays for displaying lists of links.</p>
 
 <h2 class="no_toc text-delta" id="table-of-contents">Table of contents</h2>
 
 <ol id="markdown-toc">
-  <li><a href="#dropdown" id="markdown-toc-dropdown">Dropdown</a>    <ol>
+  <li><a href="#dropdown-require-javascript" id="markdown-toc-dropdown-require-javascript">Dropdown <small class="text-sm"><code class="language-plaintext highlighter-rouge">Require Javascript</code></small></a>    <ol>
       <li><a href="#example" id="markdown-toc-example">Example</a></li>
       <li><a href="#menu-right" id="markdown-toc-menu-right">Menu right</a></li>
     </ol>

@@ -85,19 +85,19 @@
   },"14": {
     "doc": "Buttons",
     "title": "Table of contents",
-    "content": ". | Buttons . | Basic button styles | Outline buttons | Button block | . | . ",
+    "content": ". | Buttons . | Basic button styles | Outline buttons | Button block | Disabled | . | . ",
     "url": "http://localhost:4000/iamlazy/docs/components/buttons/#table-of-contents",
     "relUrl": "/docs/components/buttons/#table-of-contents"
   },"15": {
     "doc": "Buttons",
     "title": "Basic button styles",
-    "content": "Primary Secondary Success Danger Warning Info Light Dark . &lt;button type=\"button\" class=\"btn btn-primary\"&gt;Primary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-secondary\"&gt;Secondary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-success\"&gt;Success&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-danger\"&gt;Danger&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-warning\"&gt;Warning&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-info\"&gt;Info&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-light\"&gt;Light&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-dark\"&gt;Dark&lt;/button&gt; . ",
+    "content": "Primary Secondary Success Danger Warning Orange Indigo Pink Purple Info Light Dark . &lt;button type=\"button\" class=\"btn btn-primary\"&gt;Primary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-secondary\"&gt;Secondary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-success\"&gt;Success&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-danger\"&gt;Danger&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-warning\"&gt;Warning&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-orange\"&gt;Orange&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-indigo\"&gt;Indigo&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-pink\"&gt;Pink&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-purple\"&gt;Purple&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-info\"&gt;Info&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-light\"&gt;Light&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-dark\"&gt;Dark&lt;/button&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/buttons/#basic-button-styles",
     "relUrl": "/docs/components/buttons/#basic-button-styles"
   },"16": {
     "doc": "Buttons",
     "title": "Outline buttons",
-    "content": "Primary Secondary Success Danger Warning Info Light Dark . &lt;button type=\"button\" class=\"btn btn-outline-primary\"&gt;Primary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-secondary\"&gt;Secondary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-success\"&gt;Success&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-danger\"&gt;Danger&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-warning\"&gt;Warning&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-info\"&gt;Info&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-light\"&gt;Light&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-dark\"&gt;Dark&lt;/button&gt; . ",
+    "content": "Primary Secondary Success Danger Warning Orange Indigo Pink Purple Info Light Dark . &lt;button type=\"button\" class=\"btn btn-outline-primary\"&gt;Primary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-secondary\"&gt;Secondary&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-success\"&gt;Success&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-danger\"&gt;Danger&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-warning\"&gt;Warning&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-orange\"&gt;Orange&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-indigo\"&gt;Indigo&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-pink\"&gt;Pink&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-purple\"&gt;Purple&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-info\"&gt;Info&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-light\"&gt;Light&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-outline-dark\"&gt;Dark&lt;/button&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/buttons/#outline-buttons",
     "relUrl": "/docs/components/buttons/#outline-buttons"
   },"17": {
@@ -107,474 +107,504 @@
     "url": "http://localhost:4000/iamlazy/docs/components/buttons/#button-block",
     "relUrl": "/docs/components/buttons/#button-block"
   },"18": {
+    "doc": "Buttons",
+    "title": "Disabled",
+    "content": "Success Success . &lt;button type=\"button\" class=\"btn btn-success\" disabled&gt;Success&lt;/button&gt; &lt;button type=\"button\" class=\"btn btn-warning disabled\"&gt;Success&lt;/button&gt; . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/buttons/#disabled",
+    "relUrl": "/docs/components/buttons/#disabled"
+  },"19": {
     "doc": "Card",
     "title": "Card",
     "content": "I am Lazy’s cards provide a flexible and extensible content container with multiple variants and options. ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/",
     "relUrl": "/docs/components/card/"
-  },"19": {
+  },"20": {
     "doc": "Card",
     "title": "Table of contents",
     "content": ". | Card . | Examples . | Stacked | Horizontal | . | Sizing | Border | Shadow . | Shadow sizing | . | . | Content type stacked card . | Body | Title,Subtitle and text | Header and Footer | . | Content type horizontal card . | Left Side . | Images | . | Right Side . | Title,Subtitle and text | . | . | . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#table-of-contents",
     "relUrl": "/docs/components/card/#table-of-contents"
-  },"20": {
+  },"21": {
     "doc": "Card",
     "title": "Examples",
     "content": "Stacked . Card title . card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Go somewhere &lt;div class=\"card\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;div class=\"card-body\"&gt; &lt;h3 class=\"card-title\"&gt;Card title&lt;/h3&gt; &lt;p class=\"card-subtitle\"&gt;card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;a href=\"#\" class=\"btn btn-primary\"&gt;Go somewhere&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . Horizontal . Card title . Card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Go somewhere &lt;div class=\"card-horizontal\"&gt; &lt;div class=\"card-left\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;/div&gt; &lt;div class=\"card-right\"&gt; &lt;h3 class=\"card-title\"&gt;Card title&lt;/h3&gt; &lt;p class=\"card-subtitle\"&gt;Card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;a href=\"#\" class=\"btn btn-primary\"&gt;Go somewhere&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#examples",
     "relUrl": "/docs/components/card/#examples"
-  },"21": {
+  },"22": {
     "doc": "Card",
     "title": "Sizing",
     "content": "Card work with cards of all sizes, including default card. use .card-{sm|md|lg|xl} class to get the desired size. By default stacked cards use .card-sm while horizontal cards use .card-xl . This is some text within a card body. This is some text within a card body. This is some text within a card body. This is some text within a card body. &lt;div class=\"card card-no-shadow card-bordered card-sm\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-no-shadow card-bordered card-lg\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-no-shadow card-bordered card-md\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card-horizontal\"&gt; &lt;div class=\"card-right\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#sizing",
     "relUrl": "/docs/components/card/#sizing"
-  },"22": {
+  },"23": {
     "doc": "Card",
     "title": "Border",
     "content": "use .card-bordered to display the border on the card.By default horizontal cards display borders while stacked cards don’t. This is some text within a card body. This is some text within a card body. This is some text within a card body. &lt;div class=\"card\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-no-shadow\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-no-shadow card-bordered\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#border",
     "relUrl": "/docs/components/card/#border"
-  },"23": {
+  },"24": {
     "doc": "Card",
     "title": "Shadow",
     "content": "use .card-shadow to display the shadow on the card.By default stacked cards display shadows while horizontal cards don’t. This is some text within a card body. This is some text within a card body. &lt;div class=\"card\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card-horizontal\"&gt; &lt;div class=\"card-right\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; . use .card-no-shadow to hide the shadow on the card. This is some text within a card body. This is some text within a card body. &lt;div class=\"card\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-no-shadow\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; . Shadow sizing . use .card-shadow-{sm|md|lg|xl} class to get the desired size. Card title . card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Go somewhere Card title . card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Go somewhere &lt;div class=\"card\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;div class=\"card-body\"&gt; &lt;h3 class=\"card-title\"&gt;Card title&lt;/h3&gt; &lt;p class=\"card-subtitle\"&gt;card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;a href=\"#\" class=\"btn btn-primary\"&gt;Go somewhere&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=\"card card-shadow-xl\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;div class=\"card-body\"&gt; &lt;h3 class=\"card-title\"&gt;Card title&lt;/h3&gt; &lt;p class=\"card-subtitle\"&gt;card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;a href=\"#\" class=\"btn btn-primary\"&gt;Go somewhere&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#shadow",
     "relUrl": "/docs/components/card/#shadow"
-  },"24": {
+  },"25": {
     "doc": "Card",
     "title": "Content type stacked card",
     "content": "Cards support a wide variety of content. Below are examples of what’s supported. ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#content-type-stacked-card",
     "relUrl": "/docs/components/card/#content-type-stacked-card"
-  },"25": {
+  },"26": {
     "doc": "Card",
     "title": "Body",
     "content": "The building block of a card is the .card-body. Use it whenever you need a padded section within a card. This is some text within a card body. &lt;div class=\"card\"&gt; &lt;div class=\"card-body\"&gt; This is some text within a card body. &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#body",
     "relUrl": "/docs/components/card/#body"
-  },"26": {
+  },"27": {
     "doc": "Card",
     "title": "Title,Subtitle and text",
     "content": "Card title . Card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. &lt;div class=\"card\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;div class=\"card-body\"&gt; &lt;h4 class=\"card-title\"&gt;Card title&lt;/h4&gt; &lt;p class=\"card-subtitle\"&gt;Card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#titlesubtitle-and-text",
     "relUrl": "/docs/components/card/#titlesubtitle-and-text"
-  },"27": {
+  },"28": {
     "doc": "Card",
     "title": "Header and Footer",
     "content": "Header . Card title . Card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Footer &lt;div class=\"card\"&gt; &lt;div class=\"card-header\"&gt; &lt;h3&gt;Header&lt;/h3&gt; &lt;/div&gt; &lt;div class=\"card-body\"&gt; &lt;h4 class=\"card-title\"&gt;Card title&lt;/h4&gt; &lt;p class=\"card-subtitle\"&gt;Card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;/div&gt; &lt;div class=\"card-footer\"&gt; Footer &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#header-and-footer",
     "relUrl": "/docs/components/card/#header-and-footer"
-  },"28": {
+  },"29": {
     "doc": "Card",
     "title": "Content type horizontal card",
     "content": "Cards support a wide variety of content. Below are examples of what’s supported.I recommend always using .card-left and .card-right on your horizontal cards. ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#content-type-horizontal-card",
     "relUrl": "/docs/components/card/#content-type-horizontal-card"
-  },"29": {
+  },"30": {
     "doc": "Card",
     "title": "Left Side",
     "content": "Images .card-thumb places an image to the left of the card. This is the right side of the card. &lt;div class=\"card-horizontal\"&gt; &lt;div class=\"card-left\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;/div&gt; &lt;div class=\"card-right\"&gt; &lt;p class=\"card-text\"&gt; This is the right side of the card.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#left-side",
     "relUrl": "/docs/components/card/#left-side"
-  },"30": {
+  },"31": {
     "doc": "Card",
     "title": "Right Side",
     "content": "Title,Subtitle and text . Card title . Card subtitle . Some quick example text to build on the card title and make up the bulk of the card's content. Go somewhere &lt;div class=\"card-horizontal\"&gt; &lt;div class=\"card-left\"&gt; &lt;img class=\"card-thumb\" src=\"...\" alt=\"Card image\"&gt; &lt;/div&gt; &lt;div class=\"card-right\"&gt; &lt;h3 class=\"card-title\"&gt;Card title&lt;/h3&gt; &lt;p class=\"card-subtitle\"&gt;Card subtitle&lt;/p&gt; &lt;p class=\"card-text\"&gt;Some quick example text to build on the card title and make up the bulk of the card's content.&lt;/p&gt; &lt;a href=\"#\" class=\"btn btn-primary\"&gt;Go somewhere&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/card/#right-side",
     "relUrl": "/docs/components/card/#right-side"
-  },"31": {
+  },"32": {
     "doc": "Color",
     "title": "Color Utilities",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#color-utilities",
     "relUrl": "/docs/utilities/color/#color-utilities"
-  },"32": {
+  },"33": {
     "doc": "Color",
     "title": "Table of contents",
     "content": ". | Light Greys | Dark Greys | Purples | Blues | Greens | Yellows | Reds | . All the colors used in Just the Docs have been systematized into a series of variables that have been extended to both font color and background color utility classes. ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#table-of-contents",
     "relUrl": "/docs/utilities/color/#table-of-contents"
-  },"33": {
+  },"34": {
     "doc": "Color",
     "title": "Light Greys",
     "content": "| Color value | Font color utility | Background color utility | . | grey-lt-000 | .text-grey-lt-000 | .bg-grey-lt-000 | . | grey-lt-100 | .text-grey-lt-100 | .bg-grey-lt-100 | . | grey-lt-200 | .text-grey-lt-200 | .bg-grey-lt-200 | . | grey-lt-300 | .text-grey-lt-300 | .bg-grey-lt-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#light-greys",
     "relUrl": "/docs/utilities/color/#light-greys"
-  },"34": {
+  },"35": {
     "doc": "Color",
     "title": "Dark Greys",
     "content": "| Color value | Font color utility | Background color utility | . | grey-dk-000 | .text-grey-dk-000 | .bg-grey-dk-000 | . | grey-dk-100 | .text-grey-dk-100 | .bg-grey-dk-100 | . | grey-dk-200 | .text-grey-dk-200 | .bg-grey-dk-200 | . | grey-dk-250 | .text-grey-dk-250 | .bg-grey-dk-250 | . | grey-dk-300 | .text-grey-dk-300 | .bg-grey-dk-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#dark-greys",
     "relUrl": "/docs/utilities/color/#dark-greys"
-  },"35": {
+  },"36": {
     "doc": "Color",
     "title": "Purples",
     "content": "| Color value | Font color utility | Background color utility | . | purple-000 | .text-purple-000 | .bg-purple-000 | . | purple-100 | .text-purple-100 | .bg-purple-100 | . | purple-200 | .text-purple-200 | .bg-purple-200 | . | purple-300 | .text-purple-300 | .bg-purple-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#purples",
     "relUrl": "/docs/utilities/color/#purples"
-  },"36": {
+  },"37": {
     "doc": "Color",
     "title": "Blues",
     "content": "| Color value | Font color utility | Background color utility | . | blue-000 | .text-blue-000 | .bg-blue-000 | . | blue-100 | .text-blue-100 | .bg-blue-100 | . | blue-200 | .text-blue-200 | .bg-blue-200 | . | blue-300 | .text-blue-300 | .bg-blue-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#blues",
     "relUrl": "/docs/utilities/color/#blues"
-  },"37": {
+  },"38": {
     "doc": "Color",
     "title": "Greens",
     "content": "| Color value | Font color utility | Background color utility | . | green-000 | .text-green-000 | .bg-green-000 | . | green-100 | .text-green-100 | .bg-green-100 | . | green-200 | .text-green-200 | .bg-green-200 | . | green-300 | .text-green-300 | .bg-green-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#greens",
     "relUrl": "/docs/utilities/color/#greens"
-  },"38": {
+  },"39": {
     "doc": "Color",
     "title": "Yellows",
     "content": "| Color value | Font color utility | Background color utility | . | yellow-000 | .text-yellow-000 | .bg-yellow-000 | . | yellow-100 | .text-yellow-100 | .bg-yellow-100 | . | yellow-200 | .text-yellow-200 | .bg-yellow-200 | . | yellow-300 | .text-yellow-300 | .bg-yellow-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#yellows",
     "relUrl": "/docs/utilities/color/#yellows"
-  },"39": {
+  },"40": {
     "doc": "Color",
     "title": "Reds",
     "content": "| Color value | Font color utility | Background color utility | . | red-000 | .text-red-000 | .bg-red-000 | . | red-100 | .text-red-100 | .bg-red-100 | . | red-200 | .text-red-200 | .bg-red-200 | . | red-300 | .text-red-300 | .bg-red-300 | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/#reds",
     "relUrl": "/docs/utilities/color/#reds"
-  },"40": {
+  },"41": {
     "doc": "Color",
     "title": "Color",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/color/",
     "relUrl": "/docs/utilities/color/"
-  },"41": {
+  },"42": {
     "doc": "Components",
     "title": "Components",
     "content": "To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. ",
     "url": "http://localhost:4000/iamlazy/docs/components",
     "relUrl": "/docs/components"
-  },"42": {
+  },"43": {
     "doc": "Configuration",
     "title": "Configuration",
     "content": "Just the Docs has some specific configuration parameters that can be defined in your Jekyll site’s _config.yml file. ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/",
     "relUrl": "/docs/configuration/"
-  },"43": {
+  },"44": {
     "doc": "Configuration",
     "title": "Table of contents",
     "content": ". | Site logo | Search | Aux links | Heading anchor links | Footer content | Color scheme | Google Analytics | . View this site’s _config.yml file as an example. ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#table-of-contents",
     "relUrl": "/docs/configuration/#table-of-contents"
-  },"44": {
+  },"45": {
     "doc": "Configuration",
     "title": "Site logo",
     "content": "# Set a path/url to a logo that will be displayed instead of the title logo: \"/assets/images/just-the-docs.png\" . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#site-logo",
     "relUrl": "/docs/configuration/#site-logo"
-  },"45": {
+  },"46": {
     "doc": "Configuration",
     "title": "Search",
     "content": "# Enable or disable the site search # Supports true (default) or false search_enabled: true search: # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 heading_level: 2 # Maximum amount of previews per search result # Default: 3 previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 preview_words_after: 10 # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words tokenizer_separator: /[\\s/]+/ # Display the relative url in search results # Supports true (default) or false rel_url: true # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) button: false . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#search",
     "relUrl": "/docs/configuration/#search"
-  },"46": {
+  },"47": {
     "doc": "Configuration",
     "title": "Aux links",
     "content": "# Aux links for the upper right navigation aux_links: \"Just the Docs on GitHub\": - \"//github.com/pmarsceill/just-the-docs\" # Makes Aux links open in a new tab. Default is false aux_links_new_tab: false . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#aux-links",
     "relUrl": "/docs/configuration/#aux-links"
-  },"47": {
+  },"48": {
     "doc": "Configuration",
     "title": "Heading anchor links",
     "content": "# Heading anchor links appear on hover over h1-h6 tags in page content # allowing users to deep link to a particular heading on a page. # # Supports true (default) or false heading_anchors: true . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#heading-anchor-links",
     "relUrl": "/docs/configuration/#heading-anchor-links"
-  },"48": {
+  },"49": {
     "doc": "Configuration",
     "title": "Footer content",
     "content": "# Footer content # appears at the bottom of every page's main content footer_content: \"Copyright &amp;copy; 2017-2019 Patrick Marsceill. Distributed by an &lt;a href=\\\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\\\"&gt;MIT license.&lt;/a&gt;\" # Footer last edited timestamp last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter last_edit_time_format: \"%b %e %Y at %I:%M %p\" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html # Footer \"Edit this page on GitHub\" link text gh_edit_link: true # show or hide edit this page link gh_edit_link_text: \"Edit this page on GitHub.\" gh_edit_repository: \"https://github.com/pmarsceill/just-the-docs\" # the github URL for your repo gh_edit_branch: \"master\" # the branch that your docs is served from gh_edit_view_mode: \"tree\" # \"tree\" or \"edit\" if you want the user to jump into the editor immediately . | the “page last modified” data will only display if a page has a key called last_modified_date, formatted in some readable date format | last_edit_time_format uses Ruby’s DateTime formatter; see examples and more information at this link. | gh_edit_repository is the URL of the project’s GitHub repository | gh_edit_branch is the branch that the docs site is served from; defaults to master | gh_edit_view_mode is \"tree\" by default, which brings the user to the github page; switch to \"edit\" to bring the user directly into editing mode | . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#footer-content",
     "relUrl": "/docs/configuration/#footer-content"
-  },"49": {
+  },"50": {
     "doc": "Configuration",
     "title": "Color scheme",
     "content": "# Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . See Customization for more information. ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#color-scheme",
     "relUrl": "/docs/configuration/#color-scheme"
-  },"50": {
+  },"51": {
     "doc": "Configuration",
     "title": "Google Analytics",
     "content": "# Google Analytics Tracking (optional) # e.g, UA-1234567-89 ga_tracking: UA-5555555-55 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default) . ",
     "url": "http://localhost:4000/iamlazy/docs/configuration/#google-analytics",
     "relUrl": "/docs/configuration/#google-analytics"
-  },"51": {
+  },"52": {
     "doc": "Customization",
     "title": "Customization",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/customization/",
     "relUrl": "/docs/customization/"
-  },"52": {
+  },"53": {
     "doc": "Customization",
     "title": "Table of contents",
     "content": ". | Color schemes | Custom schemes . | Define a custom scheme | Use a custom scheme | Switchable custom scheme | . | Override and completely custom styles | . ",
     "url": "http://localhost:4000/iamlazy/docs/customization/#table-of-contents",
     "relUrl": "/docs/customization/#table-of-contents"
-  },"53": {
+  },"54": {
     "doc": "Customization",
     "title": "Color schemes",
     "content": "New . Just the Docs supports two color schemes: light (default), and dark. To enable a color scheme, set the color_scheme parameter in your site’s _config.yml file: . Example . # Color scheme supports \"light\" (default) and \"dark\" color_scheme: dark . Preview dark color scheme . ",
     "url": "http://localhost:4000/iamlazy/docs/customization/#color-schemes",
     "relUrl": "/docs/customization/#color-schemes"
-  },"54": {
+  },"55": {
     "doc": "Customization",
     "title": "Custom schemes",
     "content": "Define a custom scheme . You can add custom schemes. If you want to add a scheme named foo (can be any name) just add a file _sass/color_schemes/foo.scss (replace foo by your scheme name) where you override theme variables to change colors, fonts, spacing, etc. Available variables are listed in the _variables.scss file. For example, to change the link color from the purple default to blue, include the following inside your scheme file: . Example . $link-color: $blue-000; . Note: Editing the variables directly in _sass/support/variables.scss is not recommended and can cause other dependencies to fail. Please use scheme files. Use a custom scheme . To use the custom color scheme, only set the color_scheme parameter in your site’s _config.yml file: . color_scheme: foo . Switchable custom scheme . If you want to be able to change the scheme dynamically, for example via javascript, just add a file assets/css/just-the-docs-foo.scss (replace foo by your scheme name) with the following content:` . --- --- {% include css/just-the-docs.scss.liquid color_scheme=\"foo\" %} . This allows you to switch the scheme via the following javascript. jtd.setTheme('foo'); . ",
     "url": "http://localhost:4000/iamlazy/docs/customization/#custom-schemes",
     "relUrl": "/docs/customization/#custom-schemes"
-  },"55": {
+  },"56": {
     "doc": "Customization",
     "title": "Override and completely custom styles",
     "content": "For styles that aren’t defined as variables, you may want to modify specific CSS classes. Additionally, you may want to add completely custom CSS specific to your content. To do this, put your styles in the file _sass/custom/custom.scss. This will allow for all overrides to be kept in a single file, and for any upstream changes to still be applied. For example, if you’d like to add your own styles for printing a page, you could add the following styles. Example . // Print-only styles. @media print { .side-bar, .page-header { display: none; } .main-content { max-width: auto; margin: 1em;} } . ",
     "url": "http://localhost:4000/iamlazy/docs/customization/#override-and-completely-custom-styles",
     "relUrl": "/docs/customization/#override-and-completely-custom-styles"
-  },"56": {
-    "doc": "Dropdown",
-    "title": "Dropdown",
-    "content": "Toggle contextual overlays for displaying lists of links. ",
-    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/",
-    "relUrl": "/docs/components/dropdown/"
   },"57": {
     "doc": "Dropdown",
+    "title": "Dropdown Require Javascript",
+    "content": "Toggle contextual overlays for displaying lists of links. ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#dropdown-require-javascript",
+    "relUrl": "/docs/components/dropdown/#dropdown-require-javascript"
+  },"58": {
+    "doc": "Dropdown",
     "title": "Table of contents",
-    "content": ". | Dropdown . | Example | Menu right | . | . ",
+    "content": ". | Dropdown Require Javascript . | Example | Menu right | . | . ",
     "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#table-of-contents",
     "relUrl": "/docs/components/dropdown/#table-of-contents"
-  },"58": {
+  },"59": {
     "doc": "Dropdown",
     "title": "Example",
     "content": "Dropdown one two three &lt;div class=\"dropdown\"&gt; &lt;div class=\"btn btn-primary btn-no-hover dropdown-toggle\"&gt;Dropdown&lt;/div&gt; &lt;div class=\"dropdown-menu\"&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;one&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;two&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;three&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#example",
     "relUrl": "/docs/components/dropdown/#example"
-  },"59": {
+  },"60": {
     "doc": "Dropdown",
     "title": "Menu right",
     "content": "add .dropdown-menu-right to class .dropdown-menu. Dropdown one two three &lt;div class=\"dropdown\"&gt; &lt;div class=\"btn btn-primary btn-no-hover dropdown-toggle\"&gt;Dropdown&lt;/div&gt; &lt;div class=\"dropdown-menu dropdown-menu-right\"&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;one&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;two&lt;/a&gt; &lt;a href=\"#\" class=\"dropdown-item\"&gt;three&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; . ",
     "url": "http://localhost:4000/iamlazy/docs/components/dropdown/#menu-right",
     "relUrl": "/docs/components/dropdown/#menu-right"
-  },"60": {
+  },"61": {
+    "doc": "Dropdown",
+    "title": "Dropdown",
+    "content": " ",
+    "url": "http://localhost:4000/iamlazy/docs/components/dropdown/",
+    "relUrl": "/docs/components/dropdown/"
+  },"62": {
     "doc": "Markdown kitchen sink",
     "title": "Header 1",
     "content": "This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/#header-1",
     "relUrl": "/docs/index-test/#header-1"
-  },"61": {
+  },"63": {
     "doc": "Markdown kitchen sink",
     "title": "Header 2",
     "content": "This is a blockquote following a header. When something is important enough, you do it even if the odds are not in your favor. Header 3 . // Javascript code with syntax highlighting. var fun = function lang(l) { dateformat.i18n = require('./lang/' + l) return true; } . # Ruby code with syntax highlighting GitHubPages::Dependencies.gems.each do |gem, version| s.add_dependency(gem, \"= #{version}\") end . Header 4 . | This is an unordered list following a header. | This is an unordered list following a header. | This is an unordered list following a header. | . Header 5 . | This is an ordered list following a header. | This is an ordered list following a header. | This is an ordered list following a header. | . Header 6 . | head1 | head two | three | . | ok | good swedish fish | nice | . | out of stock | good and plenty | nice | . | ok | good oreos | hmm | . | ok | good zoute drop | yumm | . There’s a horizontal rule below this. Here is an unordered list: . | Item foo | Item bar | Item baz | Item zip | . And an ordered list: . | Item one | Item two | Item three | Item four | . And a nested list: . | level 1 item . | level 2 item | level 2 item . | level 3 item | level 3 item | . | . | level 1 item . | level 2 item | level 2 item | level 2 item | . | level 1 item . | level 2 item | level 2 item | . | level 1 item | . Nesting an ol in ul in an ol . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) . | level 2 item (ol) | level 2 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | level 4 item (ol) | level 4 item (ol) . | level 3 item (ul) | level 3 item (ul) | . | . | level 1 item (ul) | . And a task list . | Hello, this is a TODO item | Hello, this is another TODO item | Goodbye, this item is done | . Small image . Large image . Definition lists can be used with HTML syntax. Name Godzilla Born 1952 Birthplace Japan Color Green Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this. The final element. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/#header-2",
     "relUrl": "/docs/index-test/#header-2"
-  },"62": {
+  },"64": {
     "doc": "Markdown kitchen sink",
     "title": "Markdown kitchen sink",
     "content": "Text can be bold, italic, or strikethrough. Link to another page. There should be whitespace between paragraphs. There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. ",
     "url": "http://localhost:4000/iamlazy/docs/index-test/",
     "relUrl": "/docs/index-test/"
-  },"63": {
+  },"65": {
     "doc": "Home",
     "title": "Focus on writing good documentation",
     "content": "Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages. Get started now View it on GitHub . ",
     "url": "http://localhost:4000/iamlazy/#focus-on-writing-good-documentation",
     "relUrl": "/#focus-on-writing-good-documentation"
-  },"64": {
+  },"66": {
     "doc": "Home",
     "title": "Getting started",
     "content": "Dependencies . Just the Docs is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special plugins and can run on GitHub Pages’ standard Jekyll compiler. The Jekyll SEO Tag plugin is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the Jekyll SEO Tag usage guide. Quick start: Use as a GitHub Pages remote theme . | Add Just the Docs to your Jekyll site’s _config.yml as a remote theme remote_theme: pmarsceill/just-the-docs . You must have GitHub Pages enabled on your repo, one or more Markdown files, and a _config.yml file. See an example repository . | . Local installation: Use the gem-based theme . | Install the Ruby Gem $ gem install just-the-docs . # .. or add it to your your Jekyll site’s Gemfile gem \"just-the-docs\" . | Add Just the Docs to your Jekyll site’s _config.yml theme: \"just-the-docs\" . | Optional: Initialize search data (creates search-data.json) $ bundle exec just-the-docs rake search:init . | Run you local Jekyll server $ jekyll serve . # .. or if you're using a Gemfile (bundler) $ bundle exec jekyll serve . | Point your web browser to http://localhost:4000 | . If you’re hosting your site on GitHub Pages, set up GitHub Pages and Jekyll locally so that you can more easily work in your development environment. Configure Just the Docs . | See configuration options | . ",
     "url": "http://localhost:4000/iamlazy/#getting-started",
     "relUrl": "/#getting-started"
-  },"65": {
+  },"67": {
     "doc": "Home",
     "title": "About the project",
     "content": "Just the Docs is © 2017-2020 by Patrick Marsceill. License . Just the Docs is distributed by an MIT license. Contributing . When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in our GitHub repo. Thank you to the contributors of Just the Docs! . Code of Conduct . Just the Docs is committed to fostering a welcoming community. View our Code of Conduct on our GitHub repository. ",
     "url": "http://localhost:4000/iamlazy/#about-the-project",
     "relUrl": "/#about-the-project"
-  },"66": {
+  },"68": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/",
     "relUrl": "/"
-  },"67": {
+  },"69": {
     "doc": "Layout",
     "title": "Layout Utilities",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#layout-utilities",
     "relUrl": "/docs/utilities/layout/#layout-utilities"
-  },"68": {
+  },"70": {
     "doc": "Layout",
     "title": "Table of contents",
     "content": ". | Spacing | Horizontal Alignment | Vertical Alignment | Display | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#table-of-contents",
     "relUrl": "/docs/utilities/layout/#table-of-contents"
-  },"69": {
+  },"71": {
     "doc": "Layout",
     "title": "Spacing",
     "content": "These spacers are available to use for margins and padding with responsive utility classes. Combine these prefixes with a screen size and spacing scale to use them responsively. | Classname prefix | What it does | . | .m- | margin | . | .mx- | margin-left, margin-right | . | .my- | margin top, margin bottom | . | .mt- | margin-top | . | .mr- | margin-right | . | .mb- | margin-bottom | . | .ml- | margin-left | . | Classname prefix | What it does | . | .p- | padding | . | .px- | padding-left, padding-right | . | .py- | padding top, padding bottom | . | .pt- | padding-top | . | .pr- | padding-right | . | .pb- | padding-bottom | . | .pl- | padding-left | . Spacing values are based on a 1rem = 16px spacing scale, broken down into these units: . | Spacer/suffix | Size in rems | Rem converted to px | . | 1 | 0.25rem | 4px | . | 2 | 0.5rem | 8px | . | 3 | 0.75rem | 12px | . | 4 | 1rem | 16px | . | 5 | 1.5rem | 24px | . | 6 | 2rem | 32px | . | 7 | 2.5rem | 40px | . | 8 | 3rem | 48px | . | auto | auto | auto | . Use mx-auto to horizontally center elements. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This paragraph will have a margin bottom of 1rem/16px at large screens. {: .mb-lg-4 } This paragraph will have 2rem/32px of padding on the right and left at all screen sizes. {: .px-6 } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#spacing",
     "relUrl": "/docs/utilities/layout/#spacing"
-  },"70": {
+  },"72": {
     "doc": "Layout",
     "title": "Horizontal Alignment",
     "content": "| Classname | What it does | . | .float-left | float: left | . | .float-right | float: right | . | .flex-justify-start | justify-content: flex-start | . | .flex-justify-end | justify-content: flex-end | . | .flex-justify-between | justify-content: space-between | . | .flex-justify-around | justify-content: space-around | . Note: any of the flex- classes must be used on a parent element that has d-flex applied to it. ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#horizontal-alignment",
     "relUrl": "/docs/utilities/layout/#horizontal-alignment"
-  },"71": {
+  },"73": {
     "doc": "Layout",
     "title": "Vertical Alignment",
     "content": "| Classname | What it does | . | .v-align-baseline | vertical-align: baseline | . | .v-align-bottom | vertical-align: bottom | . | .v-align-middle | vertical-align: middle | . | .v-align-text-bottom | vertical-align: text-bottom | . | .v-align-text-top | vertical-align: text-top | . | .v-align-top | vertical-align: top | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#vertical-alignment",
     "relUrl": "/docs/utilities/layout/#vertical-alignment"
-  },"72": {
+  },"74": {
     "doc": "Layout",
     "title": "Display",
     "content": "Display classes aid in adapting the layout of the elements on a page: . | Class |   | . | .d-block | display: block | . | .d-flex | display: flex | . | .d-inline | display: inline | . | .d-inline-block | display: inline-block | . | .d-none | display: none | . Use these classes in conjunction with the responsive modifiers. Examples . In Markdown, use the {: } wrapper to apply custom classes: . This button will be hidden until medium screen sizes: [ A button ](#url) {: .d-none .d-md-inline-block } These headings will be `inline-block`: ### heading 3 {: .d-inline-block } ### heading 3 {: .d-inline-block } . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/#display",
     "relUrl": "/docs/utilities/layout/#display"
-  },"73": {
+  },"75": {
     "doc": "Layout",
     "title": "Layout",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/layout/",
     "relUrl": "/docs/utilities/layout/"
-  },"74": {
+  },"76": {
     "doc": "Navigation Structure",
     "title": "Navigation Structure",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/",
     "relUrl": "/docs/navigation-structure/"
-  },"75": {
+  },"77": {
     "doc": "Navigation Structure",
     "title": "Table of contents",
     "content": ". | Main navigation | Ordering pages | Excluding pages | Pages with children . | Child pages | Auto-generating Table of Contents | Children with children | . | Auxiliary Links | In-page navigation with Table of Contents . | Collapsible Table of Contents | . | . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#table-of-contents",
     "relUrl": "/docs/navigation-structure/#table-of-contents"
-  },"76": {
+  },"78": {
     "doc": "Navigation Structure",
     "title": "Main navigation",
     "content": "The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren). By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see Pages with Children). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#main-navigation",
     "relUrl": "/docs/navigation-structure/#main-navigation"
-  },"77": {
+  },"79": {
     "doc": "Navigation Structure",
     "title": "Ordering pages",
     "content": "To specify a page order, use the nav_order parameter in your pages’ YAML front matter. Example . --- layout: default title: Customization nav_order: 4 --- . The specified nav_order parameters on a site should be all integers or all strings. Pages without a nav_order parameter are ordered alphabetically by their title, and appear after the explicitly-ordered pages at each level. By default, all Capital letters are sorted before all lowercase letters; adding nav_sort: case_insensitive in the configuration file ignores case when sorting strings (but also sorts numbers lexicographically: 10 comes before 1). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#ordering-pages",
     "relUrl": "/docs/navigation-structure/#ordering-pages"
-  },"78": {
+  },"80": {
     "doc": "Navigation Structure",
     "title": "Excluding pages",
     "content": "For specific pages that you do not wish to include in the main navigation, e.g. a 404 page or a landing page, use the nav_exclude: true parameter in the YAML front matter for that page. Example . --- layout: default title: 404 nav_exclude: true --- . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#excluding-pages",
     "relUrl": "/docs/navigation-structure/#excluding-pages"
-  },"79": {
+  },"81": {
     "doc": "Navigation Structure",
     "title": "Pages with children",
     "content": "Sometimes you will want to create a page with many children (a section). First, it is recommended that you keep pages that are related in a directory together… For example, in these docs, we keep all of the written documentation in the ./docs directory and each of the sections in subdirectories like ./docs/ui-components and ./docs/utilities. This gives us an organization like: . +-- .. |-- (Jekyll files) |-- docs |-- ui-components | |-- index.md (parent page) | |-- buttons.md | |-- code.md | |-- labels.md | |-- tables.md | +-- typography.md | |-- utilities | |-- index.md (parent page) | |-- color.md | |-- layout.md | |-- responsive-modifiers.md | +-- typography.md | |-- (other md files, pages with no children) | +-- .. |-- (Jekyll files) +-- .. On the parent pages, add this YAML front matter parameter: . | has_children: true (tells us that this is a parent page) | . Example . --- layout: default title: UI Components nav_order: 2 has_children: true --- . Here we’re setting up the UI Components landing page that is available at /docs/ui-components, which has children and is ordered second in the main nav. Child pages . On child pages, simply set the parent: YAML front matter to whatever the parent’s page title is and set a nav order (this number is now scoped within the section). Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 --- . The Buttons page appears as a child of UI Components and appears second in the UI Components section. Auto-generating Table of Contents . By default, all pages with children will automatically append a Table of Contents which lists the child pages after the parent page’s content. To disable this auto Table of Contents, set has_toc: false in the parent page’s YAML front matter. Example . --- layout: default title: UI Components nav_order: 2 has_children: true has_toc: false --- . Children with children . Child pages can also have children (grandchildren). This is achieved by using a similar pattern on the child and grandchild pages. | Add the has_children attribute to the child | Add the parent and grand_parent attribute to the grandchild | . Example . --- layout: default title: Buttons parent: UI Components nav_order: 2 has_children: true --- . --- layout: default title: Buttons Child Page parent: Buttons grand_parent: UI Components nav_order: 1 --- . This would create the following navigation structure: . +-- .. |-- UI Components |-- .. | |-- Buttons | |-- Button Child Page | |-- .. | +-- .. ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#pages-with-children",
     "relUrl": "/docs/navigation-structure/#pages-with-children"
-  },"80": {
+  },"82": {
     "doc": "Navigation Structure",
     "title": "Auxiliary Links",
     "content": "To add auxiliary links to your site (in the upper right on all pages), add it to the aux_links configuration option in your site’s _config.yml file. Example . # Aux links for the upper right navigation aux_links: \"Just the Docs on GitHub\": - \"//github.com/pmarsceill/just-the-docs\" . ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#auxiliary-links",
     "relUrl": "/docs/navigation-structure/#auxiliary-links"
-  },"81": {
+  },"83": {
     "doc": "Navigation Structure",
     "title": "In-page navigation with Table of Contents",
     "content": "To generate a Table of Contents on your docs pages, you can use the {:toc} method from Kramdown, immediately after an &lt;ol&gt; in Markdown. This will automatically generate an ordered list of anchor links to various sections of the page based on headings and heading levels. There may be occasions where you’re using a heading and you don’t want it to show up in the TOC, so to skip a particular heading use the {: .no_toc } CSS class. Example . # Navigation Structure {: .no_toc } ## {: .no_toc .text-delta } 1. TOC {:toc} . This example skips the page name heading (#) from the TOC, as well as the heading for the Table of Contents itself (##) because it is redundant, followed by the table of contents itself. To get an unordered list, replace 1. TOC above by - TOC. Collapsible Table of Contents . The Table of Contents can be made collapsible using the &lt;details&gt; and &lt;summary&gt; elements , as in the following example. The attribute open (expands the Table of Contents by default) and the styling with {: .text-delta } are optional. &lt;details open markdown=\"block\"&gt; &lt;summary&gt; &lt;/summary&gt; {: .text-delta } 1. TOC {:toc} &lt;/details&gt; . The result is shown at the top of this page ({:toc} can be used only once on each page). ",
     "url": "http://localhost:4000/iamlazy/docs/navigation-structure/#in-page-navigation-with-table-of-contents",
     "relUrl": "/docs/navigation-structure/#in-page-navigation-with-table-of-contents"
-  },"82": {
+  },"84": {
     "doc": "Responsive Modifiers",
     "title": "Responsive modifiers",
     "content": "Just the Docs spacing works in conjunction with a variety of modifiers that allow you to target specific screen sizes responsively. Use these in conjunction with spacing and display prefix and suffix classes. | Modifier | Screen size | . | (none) | All screens until the next modifier | . | xs | 320px (20rem) and up | . | sm | 500px (31.25rem) and up | . | md | 740px (46.25rem) and up | . | lg | 1120px (70rem) and up | . | xl | 1400px (87.5rem) and up | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/responsive-modifiers/#responsive-modifiers",
     "relUrl": "/docs/utilities/responsive-modifiers/#responsive-modifiers"
-  },"83": {
+  },"85": {
     "doc": "Responsive Modifiers",
     "title": "Responsive Modifiers",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/responsive-modifiers/",
     "relUrl": "/docs/utilities/responsive-modifiers/"
-  },"84": {
+  },"86": {
     "doc": "Search",
     "title": "Search",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/search/",
     "relUrl": "/docs/search/"
-  },"85": {
+  },"87": {
     "doc": "Search",
     "title": "Table of contents",
     "content": ". | Enable search in configuration . | Search granularity | Search previews | Search tokenizer | Display URL in search results | Display search button | . | Hiding pages from search | Generate search index when used as a gem | . Just the Docs uses lunr.js to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points: . | Page title | Page content | Page URL | . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#table-of-contents",
     "relUrl": "/docs/search/#table-of-contents"
-  },"86": {
+  },"88": {
     "doc": "Search",
     "title": "Enable search in configuration",
     "content": "In your site’s _config.yml, enable search: . # Enable or disable the site search # Supports true (default) or false search_enabled: true . Search granularity . Pages are split into sections that can be searched individually. The sections are defined by the headings on the page. Each section is displayed in a separate search result. # Split pages into sections that can be searched individually # Supports 1 - 6, default: 2 search.heading_level: 2 . Search previews . A search result can contain previews that show where the search words are found in the specific section. # Maximum amount of previews per search result # Default: 3 search.previews: 3 # Maximum amount of words to display before a matched word in the preview # Default: 5 search.preview_words_before: 5 # Maximum amount of words to display after a matched word in the preview # Default: 10 search.preview_words_after: 10 . Search tokenizer . The default is for hyphens to separate tokens in search terms: gem-based is equivalent to gem based, matching either word. To allow search for hyphenated words: . # Set the search token separator # Default: /[\\s\\-/]+/ # Example: enable support for hyphenated search words search.tokenizer_separator: /[\\s/]+/ . Display URL in search results . # Display the relative url in search results # Supports true (default) or false search.rel_url: false . Display search button . The search button displays in the bottom right corner of the screen and triggers the search input when clicked. # Enable or disable the search button that appears in the bottom right corner of every page # Supports true or false (default) search.button: true . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#enable-search-in-configuration",
     "relUrl": "/docs/search/#enable-search-in-configuration"
-  },"87": {
+  },"89": {
     "doc": "Search",
     "title": "Hiding pages from search",
     "content": "Sometimes you might have a page that you don’t want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the search_exclude: true parameter to the page’s YAML front matter: . Example . --- layout: default title: Page not found nav_exclude: true search_exclude: true --- . ",
     "url": "http://localhost:4000/iamlazy/docs/search/#hiding-pages-from-search",
     "relUrl": "/docs/search/#hiding-pages-from-search"
-  },"88": {
+  },"90": {
     "doc": "Search",
     "title": "Generate search index when used as a gem",
     "content": "If you use Just the Docs as a remote theme, you do not need the following steps. If you use the theme as a gem, you must initialize the search by running this rake command that comes with just-the-docs: . $ bundle exec just-the-docs rake search:init . This command creates the assets/js/zzzz-search-data.json file that Jekyll uses to create your search index. Alternatively, you can create the file manually with this content. ",
     "url": "http://localhost:4000/iamlazy/docs/search/#generate-search-index-when-used-as-a-gem",
     "relUrl": "/docs/search/#generate-search-index-when-used-as-a-gem"
-  },"89": {
+  },"91": {
+    "doc": "Table",
+    "title": "Table",
+    "content": "Toggle contextual overlays for displaying lists of links. ",
+    "url": "http://localhost:4000/iamlazy/docs/components/table/",
+    "relUrl": "/docs/components/table/"
+  },"92": {
+    "doc": "Table",
+    "title": "Table of contents",
+    "content": ". | Table . | Examples | . | . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/table/#table-of-contents",
+    "relUrl": "/docs/components/table/#table-of-contents"
+  },"93": {
+    "doc": "Table",
+    "title": "Examples",
+    "content": "| # | First | Last | Handle | . | 1 | Mark | Otto | @mdo | . | 2 | Jacob | Thornton | @fat | . | 3 | Larry | the Bird | @twitter | . &lt;table class=\"table\"&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;#&lt;/th&gt; &lt;th&gt;First&lt;/th&gt; &lt;th&gt;Last&lt;/th&gt; &lt;th&gt;Handle&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;th&gt;1&lt;/th&gt; &lt;td&gt;Mark&lt;/td&gt; &lt;td&gt;Otto&lt;/td&gt; &lt;td&gt;@mdo&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th&gt;2&lt;/th&gt; &lt;td&gt;Jacob&lt;/td&gt; &lt;td&gt;Thornton&lt;/td&gt; &lt;td&gt;@fat&lt;/td&gt; &lt;/tr&gt; &lt;tr&gt; &lt;th&gt;3&lt;/th&gt; &lt;td&gt;Larry&lt;/td&gt; &lt;td&gt;the Bird&lt;/td&gt; &lt;td&gt;@twitter&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; . ",
+    "url": "http://localhost:4000/iamlazy/docs/components/table/#examples",
+    "relUrl": "/docs/components/table/#examples"
+  },"94": {
     "doc": "Typography",
     "title": "Typography Utilities",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#typography-utilities",
     "relUrl": "/docs/utilities/typography/#typography-utilities"
-  },"90": {
+  },"95": {
     "doc": "Typography",
     "title": "Table of contents",
-    "content": ". | Font size | Font weight | Line height | Text justification | . ",
+    "content": ". | Headings | Text justification | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#table-of-contents",
     "relUrl": "/docs/utilities/typography/#table-of-contents"
-  },"91": {
+  },"96": {
     "doc": "Typography",
-    "title": "Font size",
-    "content": "Use the .fs-1 - .fs-10 to set an explicit font-size. | Class | Small screen size font-size | Large screen size font-size | . | .fs-1 | 9px | 10px | . | .fs-2 | 11px | 12px | . | .fs-3 | 12px | 14px | . | .fs-4 | 14px | 16px | . | .fs-5 | 16px | 18px | . | .fs-6 | 18px | 24px | . | .fs-7 | 24px | 32px | . | .fs-8 | 32px | 38px | . | .fs-9 | 38px | 42px | . | .fs-10 | 42px | 48px | . Font size 1 . Font size 2 . Font size 3 . Font size 4 . Font size 5 . Font size 6 . Font size 7 . Font size 8 . Font size 9 . Font size 10 . In Markdown, use the `{: }` wrapper to apply custom classes: Font size 1 {: .fs-1 } Font size 2 {: .fs-2 } Font size 3 {: .fs-3 } Font size 4 {: .fs-4 } Font size 5 {: .fs-5 } Font size 6 {: .fs-6 } Font size 7 {: .fs-7 } Font size 8 {: .fs-8 } Font size 9 {: .fs-9 } Font size 10 {: .fs-10 } . ",
-    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#font-size",
-    "relUrl": "/docs/utilities/typography/#font-size"
-  },"92": {
+    "title": "Headings",
+    "content": "All HTML headings, &lt;h1&gt; through &lt;h6&gt;, are available. ",
+    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#headings",
+    "relUrl": "/docs/utilities/typography/#headings"
+  },"97": {
     "doc": "Typography",
-    "title": "Font weight",
-    "content": "Use the .fw-300 - .fw-700 to set an explicit font-size. Font weight 300 . Font weight 400 . Font weight 500 . Font weight 700 . In Markdown, use the `{: }` wrapper to apply custom classes: Font weight 300 {: .fw-300 } Font weight 400 {: .fw-400 } Font weight 500 {: .fw-500 } Font weight 700 {: .fw-700 } . ",
-    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#font-weight",
-    "relUrl": "/docs/utilities/typography/#font-weight"
-  },"93": {
+    "title": "Heading 1",
+    "content": " ",
+    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/",
+    "relUrl": "/docs/utilities/typography/"
+  },"98": {
     "doc": "Typography",
-    "title": "Line height",
-    "content": "Use the lh- classes to explicitly apply line height to text. | Class | line-height value | Notes | . | .lh-0 | 0 |   | . | .lh-tight | 1.1 | Default for headings | . | .lh-default | 1.4 | Default for body (paragraphs) | . No Line height No Line height . Tight line height Tight line height . Default line height Default line height . In Markdown, use the `{: }` wrapper to apply custom classes: No Line height No Line height {: .lh-0 } Tight line height Tight line height {: .lh-tight } Default line height Default line height {: .fh-default } . ",
-    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#line-height",
-    "relUrl": "/docs/utilities/typography/#line-height"
-  },"94": {
+    "title": "Heading 2",
+    "content": "Heading 3 . Heading 4 . Heading 5 . Heading 6 . &lt;h1&gt;Heading 1&lt;/h1&gt; &lt;h2&gt;Heading 2&lt;/h2&gt; &lt;h3&gt;Heading 3&lt;/h3&gt; &lt;h4&gt;Heading 4&lt;/h4&gt; &lt;h5&gt;Heading 5&lt;/h5&gt; &lt;h6&gt;Heading 6&lt;/h6&gt; . ",
+    "url": "http://localhost:4000/iamlazy/docs/utilities/typography/",
+    "relUrl": "/docs/utilities/typography/"
+  },"99": {
     "doc": "Typography",
     "title": "Text justification",
     "content": "By default text is justified left. Use these text- classes to override settings: . | Class | What it does | . | .text-left | text-align: left | . | .text-right | text-align: right | . | .text-center | text-align: center | . ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/#text-justification",
     "relUrl": "/docs/utilities/typography/#text-justification"
-  },"95": {
+  },"100": {
     "doc": "Typography",
     "title": "Typography",
     "content": " ",
     "url": "http://localhost:4000/iamlazy/docs/utilities/typography/",
     "relUrl": "/docs/utilities/typography/"
-  },"96": {
+  },"101": {
     "doc": "Utilities",
     "title": "Utilities",
     "content": "CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size. ",

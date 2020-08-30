@@ -2,7 +2,7 @@
 layout: default
 title: Alerts
 parent: Components
-nav_order: 1
+# nav_order: 1
 ---
 
 # Alerts
